@@ -7,6 +7,7 @@
 - [20th Alturiak, 1493](1493-02-20.md)
 - [30th Alturiak, 1493](1493-02-30.md)
 - [10th Ches, 1493](1493-03-10.md)
+- [20th Ches, 1493](1493-03-20.md)
 
 ## Inkwell, the Editor in Chief
 ![Inkwell](Inkwell.webp)
